@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Roboto";
+    src: url(../Roboto/Roboto-Light.ttf) format('woff');
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+}
